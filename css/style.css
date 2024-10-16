@@ -146,6 +146,15 @@ section:first-of-type {
     section{
         width:80%;
     }
+
+    header {
+      flex-direction: column;
+      height: 180px;
+    }
+
+    nav {
+      width: 100%;
+    }
 }
 @media all and (max-width:475px){
  
